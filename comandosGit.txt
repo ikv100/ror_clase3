@@ -8,3 +8,5 @@ git push origin master
 git log > esto es para ver los cambios que he realizado desde consola.
 
 Con esto estan todos los pasos para subir la información.
+
+Desde el Branch de Ignacio
