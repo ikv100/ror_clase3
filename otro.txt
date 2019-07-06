@@ -1,0 +1,8 @@
+Este es un archivo que cree despues de subir mi primer commit a GitHub
+
+git status
+git add .
+git commit -m 'cualquier cosa'
+git push origin master
+
+Con esto estan todos los pasos para subir la información.
